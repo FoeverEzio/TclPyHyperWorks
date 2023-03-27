@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e008f966-3fb4-4eb4-abb7-404d24d7000c" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/hg2d/modal_stress/__temp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hg2d/modal_stress/__temp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hg2d/modal_stress/rsp_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/hg2d/modal_stress/rsp_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hg2d/modal_stress/tk_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/hg2d/modal_stress/tk_ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm/AsetNodeIdRename/hmNodeCreate.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm/AsetNodeIdRename/hmNodeCreate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm/BeamRectangularBox/test_hmBeamRectangularBoxPoint16.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm/BeamRectangularBox/test_hmBeamRectangularBoxPoint16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm/Materials/__temp_cmd.tcl" beforeDir="false" afterPath="$PROJECT_DIR$/hm/Materials/__temp_cmd.tcl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm/Materials/__temp_comp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/hm/Materials/__temp_comp.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm/Materials/__temp_prop.csv" beforeDir="false" afterPath="$PROJECT_DIR$/hm/Materials/__temp_prop.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm/Materials/__temp_prop_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/hm/Materials/__temp_prop_2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm/hmGUI.tcl" beforeDir="false" afterPath="$PROJECT_DIR$/hm/hmGUI.tcl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm/zing_NodeToSurf/__temp.fem" beforeDir="false" afterPath="$PROJECT_DIR$/hm/zing_NodeToSurf/__temp.fem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm/自动压印程序编写_V2版.tcl" beforeDir="false" afterPath="$PROJECT_DIR$/hm/自动压印程序编写_V2版.tcl" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2M2QrlnvmFLVSCMcc55mgzQCJka" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.py_bat_dyna_run">
+    <configuration name="用完删除" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TclPyHyperWorks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/用完删除.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hmAsetIdRename" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TclPyHyperWorks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm/AsetNodeIdRename" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm/AsetNodeIdRename/hmAsetIdRename.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hmBeamRectangularBoxPoint16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TclPyHyperWorks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hm/BeamRectangularBox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm/BeamRectangularBox/hmBeamRectangularBoxPoint16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="py_bat_dyna_run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TclPyHyperWorks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project_DynaAutoRun" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project_DynaAutoRun/py_bat_dyna_run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tkui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TclPyHyperWorks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.py_bat_dyna_run" />
+        <item itemvalue="Python.tkui" />
+        <item itemvalue="Python.用完删除" />
+        <item itemvalue="Python.hmBeamRectangularBoxPoint16" />
+        <item itemvalue="Python.hmAsetIdRename" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e008f966-3fb4-4eb4-abb7-404d24d7000c" name="变更" comment="" />
+      <created>1676963400646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676963400646</updated>
+      <workItem from="1676963403289" duration="7034000" />
+      <workItem from="1676971788983" duration="400000" />
+      <workItem from="1677992578316" duration="4966000" />
+      <workItem from="1678784578827" duration="130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TclPyHyperWorks$hg2d_stress_tcl.coverage" NAME="hg2d_stress_tcl 覆盖结果" MODIFIED="1676965060966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hg2d/modal_stress" />
+    <SUITE FILE_PATH="coverage/TclPyHyperWorks$hmNodeCreate.coverage" NAME="hmNodeCreate 覆盖结果" MODIFIED="1677992713138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm/AsetNodeIdRename" />
+    <SUITE FILE_PATH="coverage/TclPyHyperWorks$rsp_read.coverage" NAME="rsp_read 覆盖结果" MODIFIED="1676964982233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hg2d/modal_stress" />
+    <SUITE FILE_PATH="coverage/TclPyHyperWorks$hmBeamRectangularBoxPoint16.coverage" NAME="hmBeamRectangularBoxPoint16 覆盖结果" MODIFIED="1677992968468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm/BeamRectangularBox" />
+    <SUITE FILE_PATH="coverage/TclPyHyperWorks$hmAsetIdRename.coverage" NAME="hmAsetIdRename 覆盖结果" MODIFIED="1677992858835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hm/AsetNodeIdRename" />
+    <SUITE FILE_PATH="coverage/TclPyHyperWorks$py_bat_dyna_run.coverage" NAME="py_bat_dyna_run 覆盖结果" MODIFIED="1677993782859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project_DynaAutoRun" />
+    <SUITE FILE_PATH="coverage/TclPyHyperWorks$tk_ui.coverage" NAME="tk_ui 覆盖结果" MODIFIED="1676968070495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hg2d/modal_stress" />
+    <SUITE FILE_PATH="coverage/TclPyHyperWorks$.coverage" NAME="用完删除 覆盖结果" MODIFIED="1677993520444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TclPyHyperWorks$tkui.coverage" NAME="tkui 覆盖结果" MODIFIED="1677993543489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
